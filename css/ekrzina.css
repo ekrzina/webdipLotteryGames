@@ -1,0 +1,801 @@
+
+/*navigacija*/
+
+
+.opisConf{
+    display: inline;
+    font-size: 12px;
+}
+
+#navnav{
+    display:none;
+}
+
+#randomBroj{
+
+    background-color: #282A35;
+    color: white;
+    padding: 24px;
+    height: 85%;
+}
+
+.gridIma {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    max-width: 100%;
+}
+
+header{
+    background-color:  #C70039 ;
+}
+
+h1{
+    color: #C70039;
+}
+h2{
+    margin-top: 46px;
+}
+
+.podaci{
+}
+
+.klikniMeID{
+}
+.klikniMeDV{
+}
+
+.nemaPodataka{
+    padding:16px;
+    text-align: center;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+.banner{
+    background: #282A35;
+}
+
+.insideBanner {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.insideBanner > a > img {
+    height: 280px;
+    width: 350px;
+    margin: 16px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.insideBanner > a >img:hover{
+    transform: scale(1.1);
+}
+
+h3 {
+    color: #e19d06;
+    margin-bottom: 32px;
+}
+.igraGalerija > div {
+
+    display:inline;
+    background: #C70039;
+    padding:20px;
+}
+
+.igraGalerija{
+    margin: 0% 47.5% 0% 47.5%;
+}
+
+.igraGalerija > div > a{
+    color:white;
+}
+
+#navnav:target {
+    display: block;
+}
+
+#vrh:target > nav{
+    display:none;
+}
+
+.gridIndex {
+    display: grid;
+    grid-template-columns: 75% 25%;
+}
+
+.zaigrajGrid{
+    grid-column: 1 / 4;
+}
+
+.randomGrid{
+    grid-column: 5 / 6;
+}
+
+.formaGrid{
+    grid-column: 1 / 5;
+}
+.video1Grid{
+    grid-column: 1/3;
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video2Grid{
+    grid-column: 3 / 5;
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.audioGrid{
+    grid-column: 1/3;
+}
+
+body {
+    width: 99%;
+    margin: auto;
+    font-family: Gill Sans, sans-serif;
+}
+
+.logo{
+    position: absolute;
+    top: 42px;
+    left: 32px;
+}
+
+.navigacijaIkona{
+    position: absolute;
+    top:44px;
+    left:200px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    padding: 16px;
+    border: solid 1px;
+    border-color: #282A35;
+}
+
+table {
+    width:85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 54px;
+}
+
+tfoot{
+    font-style: italic;
+}
+
+th{
+    height:40px;
+    background-color: #282A35;
+    color:white;
+}
+
+td {
+    text-align: center;
+    font-size: 14px;
+}
+
+.sekcijeDokumentacije{
+    margin:12px;
+}
+
+tr:hover{
+    background-color: gainsboro;
+}
+
+.videoNazivResponzivno{
+
+}
+
+h1 {
+    text-align: center;
+    margin: 25px 10px 5px;
+    padding: 24px;
+}
+/* eksplicitno - selektor klase */
+
+footer {
+    text-align: center;
+    clear: both;
+    background: #C70039;
+    padding: 46px;
+    color:white;
+}
+
+.buttons {
+    padding: 8px;
+    display: inline-block;
+}
+
+.buttonMulti{
+    padding: 2px;
+    margin-left: 8px;
+}
+
+.buttonReg{
+    padding: 8px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 36px;
+}
+
+fieldset{
+    border: solid #C70039 2px;
+}
+
+.naslovTablice {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 24px;
+    padding: 16px;
+}
+
+legend{
+    font-weight: bold;
+}
+
+.videoLook{
+    height: 382px;
+    width: 680px;
+    border: solid #181818 4px;
+}
+
+#kategorija{
+    /*display:block;*/
+}
+
+#opis{
+    /* display:block;*/
+}
+
+#buttonObrazac{
+    padding: 16px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 32px;
+}
+
+#obrazacform{
+    margin-bottom: 32px;
+}
+
+nav > ul li {
+    display: inline;
+    padding: 8px;
+
+}
+
+.art {
+    padding: 10px;
+    margin: 10px 2px;
+    width: 30%;
+    height: 100%;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    border-left: solid #282A35 8px;
+    border-top: solid #282A35 32px;
+    border-bottom: solid #282A35 8px;
+    border-right: solid #282A35 8px;
+    padding: 24px;
+
+}
+
+article > p{
+    padding:4px;
+}
+
+.clanak > a{
+    font-style: italic;
+    font-size: 12px;
+}
+
+#sadrzaj > ul {
+    margin: 16px 20px 32px 16px;
+    list-style-type: circle;
+}
+
+.datumIVrijeme{
+    font-style: italic;
+}
+
+.titl{
+    font-size: 42px;
+    color: white;
+}
+
+.multimedijskiNaslov {
+    text-align: left;
+    padding: 2px;
+    margin-top: 32px;
+}
+
+.glavniVideo{
+    width: 100%;
+    margin-top: 54px;
+    margin-bottom: 54px;
+}
+
+/* pseudoklase - selektor : */
+
+.naslovLink:hover{
+    color:white;
+}
+
+.prikazPoruka{
+    padding:14px;
+    font-size: 16px;
+}
+
+.timerClass{
+    padding:16px;
+}
+
+a{
+    color: #181818;
+}
+
+a:hover{
+    color: #e19d06;
+}
+
+footer a:hover{
+    color:white;
+}
+
+.formPriReg{
+    background: #f4f4f4;
+    /*margin: 2px 600px 40px;*/
+    padding: 24px;
+
+}
+
+/*animacija*/
+.slideshow{
+    margin-top: auto;
+    padding:16px;
+    height: 500px;
+    width: 510px;
+    overflow: hidden;
+    position: relative;
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#formPrijava label:hover, #formPrijava a:hover{
+    font-weight: bold;
+}
+
+#form1 label:hover, #form1 a:hover{
+    font-weight: bold;
+}
+
+figcaption{
+    text-align: left;
+    padding:10px;
+}
+
+li > a{
+    font-size: 18px;
+}
+
+li>a:hover{
+    color: #C70039
+}
+
+.slideshow figure{
+
+    height: 460px;
+    width: 510px;
+    position:absolute;
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    animation: slideshow 20s infinite;
+
+}
+
+.slikaSlide{
+    height: 460px;
+    width: 510px;
+}
+
+@keyframes slideshow {
+    25% {
+        opacity: 1;
+    }
+    40% {
+        opacity: 0;
+    }
+}
+.slideshow figure:nth-child(3){
+    animation-delay: 0s;
+}
+.slideshow figure:nth-child(2){
+    animation-delay: 5s;
+}
+.slideshow figure:nth-child(1){
+    animation-delay: 10s;
+}
+
+/* 
+    responzivni dizajn
+*/
+
+
+
+
+@media only screen and (min-width:390px) and (max-width: 500px){
+    @media only screen and (min-height: 844px) and (max-height:900px){
+
+        .gridIma {
+            display: grid;
+            grid-template-columns: 100px 100px 100px 100px;
+            max-width: 100%;
+        }
+
+        .glavniVideo {
+            width: 100%;
+            height:300px;
+        }
+
+        .video2Grid {
+            grid-column: 1 / 3;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .videoNazivResponzivno {
+            text-align: left;
+
+        }
+
+        .videoLook {
+            height: 200px;
+            width: 170%;
+            border: dashed #181818 4px;
+        }
+
+        table {
+
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 54px;
+            transform: rotate(270deg);
+            margin-top: 40px;
+        }
+
+        .formPriReg {
+            background: #f4f4f4;
+            margin: 0px;
+            padding: 24px;
+            border: dashed white;
+        }
+
+        .izbornikLista{
+            display: block;
+            text-align: center;
+            margin-right: 30px;
+
+        }
+
+        .izbornikLista li {
+
+            padding: 2px;
+
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+
+        }
+
+
+
+        .slikaSlide {
+            height: 260px;
+            width: 270px;
+        }
+
+        .slideshow {
+            /* margin-top: 56px; */
+            width: 90%;
+            height: 300px;
+            overflow: hidden;
+            position: relative;
+        }
+
+
+        .logo {
+            position: relative;
+
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        .navigacijaIkona {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+        }
+
+
+
+        article {
+            background: #f4f4f4;
+            padding: 10px;
+            margin: 10px;
+            width: 90%;
+            height: 100%;
+            /* display: inline-block; */
+        }
+        #multiForm {
+            width: 80%;
+        }
+
+
+    }
+}
+
+
+@media only screen and (min-width:501px) and (max-width: 820px){
+    @media only screen and (min-height: 901px) and (max-height:1180px){
+
+        .gridIma {
+            display: grid;
+            grid-template-columns: 125px 125px 125px 125px;
+            max-width: 100%;
+        }
+
+
+        .glavniVideo {
+            width: 100%;
+            height:300px;
+        }
+
+        .video1Grid {
+            grid-column: 1/3;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .video2Grid {
+            grid-column: 1 / 3;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .videoNazivResponzivno {
+            text-align: left;
+
+        }
+
+        .videoLook {
+            height: 200px;
+            width: 170%;
+            border: dashed #181818 4px;
+        }
+
+        table {
+
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 54px;
+            transform: rotate(270deg);
+            margin-top: 40px;
+        }
+        .formPriReg {
+            background: #de9c9c;
+            margin: 0px;
+            padding: 24px;
+            border: dashed white;
+            margin-bottom: 30px;
+        }
+
+        nav > ul li {
+
+            padding: 2px;
+            border: dashed #f4f4f4;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        nav > ul {
+            display: block;
+            text-align: center;
+            margin-right: 30px;
+        }
+
+        .slikaSlide {
+            height: 260px;
+            width: 340px;
+            margin-left: 24px;
+        }
+
+        .slideshow {
+            /* margin-top: 56px; */
+            width: 90%;
+            height: 300px;
+            overflow: hidden;
+            position: relative;
+        }
+
+
+        .logo {
+            position: absolute;
+            top: 50px;
+            left: 56px;
+        }
+
+        .navigacijaIkona {
+            position: absolute;
+            top: 52px;
+            left: 160px;
+        }
+
+        article {
+            background: #de9c9c;
+            padding: 10px;
+            margin: 10px;
+            width: 90%;
+            height: 100%;
+
+        }
+
+        .audioGrid {
+            grid-column: 1/5;
+        }
+
+        #multiForm {
+            width: 90%;
+        }
+
+
+    }
+}
+
+@media only screen and (min-width:821px){
+    @media only screen and (min-height: 1181px){
+
+        .gridIma {
+            display: grid;
+            grid-template-columns: 195px 195px 195px 195px;
+            max-width: 100%;
+        }
+
+        .glavniVideo {
+            width: 100%;
+            height: 400px;
+        }
+
+        table, th, td {
+            border-collapse: collapse;
+            padding: 12px;
+            border-style: dashed;
+            border-color: #f4f4f4;
+        }
+
+        .video1Grid {
+            grid-column: 1/4;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .video2Grid {
+            grid-column: 1 / 4;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .videoNazivResponzivno {
+            text-align: left;
+
+        }
+
+        .videoLook {
+            height: 400px;
+            width: 130%;
+            border: dashed #181818 4px;
+        }
+
+        table {
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 54px;
+
+            margin-top: 40px;
+
+        }
+
+        .formPriReg {
+            background: #f4f4f4;
+            margin: 0px;
+            padding: 24px;
+            border: dashed white;
+            margin-bottom: 32px;
+        }
+        nav > ul li {
+            padding: 2px;
+            border: dashed #de9c9c;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        nav > ul {
+            display: block;
+            text-align: center;
+            margin-right: 30px;
+        }
+
+        #sadrzaj {
+            background: white;
+            color: black;
+
+            margin-left: 32px;
+        }
+
+        .slikaSlide {
+            height: 450px;
+            width: 650px;
+        }
+        .slideshow {
+            /* margin-top: 56px; */
+            width: 90%;
+            height: 500px;
+            overflow: hidden;
+            position: relative;
+        }
+
+
+        .logo {
+            position: relative;
+
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        .navigacijaIkona {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+        }
+
+        .audioGrid {
+            grid-column: 1/4;
+        }
+
+        article {
+            background: #f4f4f4;
+            padding: 10px;
+            margin: 10px;
+            width: 90%;
+            height: 100%;
+            /* display: inline-block; */
+        }
+        #multiForm {
+            width: 92%;
+        }
+
+
+    }
+}

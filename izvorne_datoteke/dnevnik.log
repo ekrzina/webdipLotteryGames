@@ -1,0 +1,553 @@
+2022-06-10 16:02:31 Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-10 16:02:31 Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-10 16:14:36 Za korisnika cban broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'cban'/Tip radnje: 1
+2022-06-10 16:14:36 Korisnik cban prijavljuje se./Tip radnje: 1
+2022-06-10 16:16:39 Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-10 16:16:39 Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-10 16:16:42 Korisnik dantelion se odjavljuje./Tip radnje = 1
+2022-06-10 16:41:42 Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-10 16:47:21 Korisnik Klinček upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'Klinček'/Tip radnje: 2
+2022-06-10 16:47:26 Korisnik Klinček upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'Klinček'/Tip radnje: 2
+2022-06-10 16:48:15 Korisnik Klinček upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'Klinček'/Tip radnje: 2
+2022-06-10 16:48:15 Korisnik Klinček je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'Klinček'/Tip radnje: 2
+2022-06-10 16:48:23 Korisnik Klinček upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 4 WHERE korisnickoIme = 'Klinček'/Tip radnje: 2
+2022-06-10 16:48:46 Korisnik Klinček upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 5 WHERE korisnickoIme = 'Klinček'/Tip radnje: 2
+2022-06-10 16:54:08 Korisnik cban upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'cban'/Tip radnje: 2
+2022-06-10 17:16:57 Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-10 17:16:57 Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-10 17:20:09 Korisnik ekrzina ažurira kolo./Tip radnje: 2
+2022-06-10 17:29:14 Korisnik ekrzina kreira novo kolo./Tip radnje: 2
+2022-06-10 17:34:19 Korisnik ekrzina se odjavljuje./Tip radnje = 1
+2022-06-10 17:36:09 Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-10 17:36:09 Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-10 17:38:00 Korisnik EmaBB šalje zahtjev za isplatom./Tip radnje: 2
+2022-06-10 17:39:50 Korisnik EmaBB šalje zahtjev za isplatom./Tip radnje: 2
+2022-06-10 17:43:28 Korisnik EmaBB potvrđuje zahtjev za isplatom./Tip radnje: 2
+2022-06-10 17:51:49 Korisnik EmaBB otvara kolo 17./Tip radnje: 2
+2022-06-10 18:02:18 Registriran je novi korisnik LavLov./Tip radnje: 2
+2022-06-10 18:30:49 Korisnik 51 briše se iz baze radi zakašnjele aktivacije računa./Upit: DELETE FROM Korisnik WHERE aktivacijskiKod = 'AEIOUxxe4'/Tip radnje: 3
+2022-06-10 18:33:49 Korisnik 52 briše se iz baze radi zakašnjele aktivacije računa./Upit: DELETE FROM Korisnik WHERE aktivacijskiKod = 'ASDFWFFs'/Tip radnje: 3
+2022-06-10 18:45:23 Korisnik EmaBB se odjavljuje./Tip radnje = 1
+2022-06-10 18:45:41 Za korisnika LavLov broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LavLov'/Tip radnje: 1
+2022-06-10 18:45:41 Korisnik LavLov prijavljuje se./Tip radnje: 1
+2022-06-10 18:48:44 Korisnik LavLov postavlja listić./Tip radnje: 2
+2022-06-10 18:53:11 Korisnik LavLov postavlja listić./Tip radnje: 2
+2022-06-10 19:10:12 Korisnik LavLov se odjavljuje./Tip radnje = 1
+2022-06-10 19:10:19 Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-10 19:10:19 Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-10 19:10:32 Korisnik ekrzina zatvara kolo 15. Tip radnje: 2
+2022-06-10 19:59:06 Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-10 19:59:06 Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-10 19:59:18 Korisnik ekrzina otvara kolo 16./Tip radnje: 2
+2022-06-10 20:01:41 Korisnik ekrzina zatvara kolo 16. Tip radnje: 2
+2022-06-10 20:02:09 Korisnik ekrzina otvara kolo 16./Tip radnje: 2
+2022-06-10 20:06:44 Korisnik ekrzina ažurira igru na sreću 1./Tip radnje: 2
+2022-06-10 20:06:54 Korisnik ekrzina ažurira igru na sreću 1./Tip radnje: 2
+2022-06-10 20:08:38 Korisnik ekrzina ažurira igru na sreću 8./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '7.5', DatumVrijemePocetka = '2022-05-07 12:20:00', nazivIgre = 'Toto 13', brojIzvlacenja = '13', fondPoPogodenomBroju = '1300', DatumVrijemeZavrsetka = '2022-06-10 13:10:00' WHERE idIgraNaSrecu = '8'/Tip radnje: 2
+2022-06-10 20:14:08 Korisnik ekrzina otvara kolo 15./Tip radnje: 2
+2022-06-10 20:14:22 Korisnik ekrzina zatvara kolo 17/Tip radnje: 2
+2022-06-10 20:15:40 Korisnik ekrzina otvara kolo 17./Tip radnje: 2
+2022-06-10 20:15:47 Korisnik ekrzina zatvara kolo 17/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '2 55 8 52 9 92 4 53 6 32' WHERE idKolo = '17'/Tip radnje: 2
+2022-06-10 20:24:07 Korisnik ekrzina se odjavljuje./Tip radnje = 1
+2022-06-10 20:24:23 Za korisnika LavLov broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LavLov'/Tip radnje: 1
+2022-06-10 20:24:23 Korisnik LavLov prijavljuje se./Tip radnje: 1
+2022-06-10 20:25:14 Korisnik LavLov ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='31 59 83 24 92 15', telefon = ' 385 99-102-2466', email = 'leoleon@gmail.com', adresa = 'Ulica Vladimira Nazora 34', slikaIspunjenogListica = 'listici/1_Lotteryjpeg.jpg' WHERE idListic = '45'/Tip radnje: 2
+2022-06-10 20:31:34 Korisnik LavLov se odjavljuje./Tip radnje = 1
+2022-06-10 20:31:57 Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-10 20:31:57 Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-10 20:33:36 Korisnik Edmund F. kreira igru na sreću. /Upit: INSERT INTO IgraNaSrecu (nazivIgre, cijenaListicaIgre, datumVrijemePocetka, datumVrijemeZavrsetka, brojIzvlacenja, fondPoPogodenomBroju) VALUES ('Lotto Max', '7', '2022-06-07 12:40:00', '2022-06-30 13:10:00', null, null)/Tip radnje: 2
+2022-06-10 20:33:36 Korisnik Edmund F.igru Lotto Max pridružuje lutriji 2./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('21', '2')/Tip radnje: 2
+2022-06-10 20:41:38 Korisnik Edmund F. igru 1 pridružuje lutriji 1./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('1', '1')/Tip radnje: 2
+2022-06-10 20:45:02 Korisnik Edmund F. se odjavljuje./Tip radnje = 1
+2022-06-10 20:45:12 Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-10 20:45:12 Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-10 20:46:09 Korisnik ekrzina mijenja podatke lutrije Favbet./Upit: UPDATE Lutrija SET nazivLutrije = 'Favbet', infoTelefon = '0800-345-8751', email = 'favbet@lutrija.hr', webAdresa = 'https://www.favbet.hr' WHERE idLutrija = '10'/Tip radnje: 2
+2022-06-10 20:48:23 Korisnik ekrzina kreira novu lutriju./Upit: INSERT INTO Lutrija (nazivLutrije, infoTelefon, email, webAdresa) VALUES ('Lutz.hr', '0800-470-3546', 'lutz-help@lutrija.hr', 'https://www.lutz.hr')/Tip radnje: 1
+2022-06-10 20:50:09 Korisnik ekrzina lutriji 12 dodijeljuje novog moderatora 12/Upit: UPDATE Korisnik SET uloga_idUloga = 3 WHERE idKorisnik = '12'/Tip radnje: 2
+2022-06-10 20:53:53 Korisnik ekrzina blokira korisnika 3./Upit: UPDATE Korisnik SET StatusKorisnika = 1 WHERE idKorisnik = 3/Tip radnje: 2
+2022-06-10 20:54:08 Korisnik ekrzina odblokira korisnika 3./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 3/Tip radnje: 2
+2022-06-10 21:02:48 Korisnik ekrzina se odjavljuje./Tip radnje = 1
+2022-06-10 21:02:58 Za korisnika LavLov broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LavLov'/Tip radnje: 1
+2022-06-10 21:02:58 Korisnik LavLov prijavljuje se./Tip radnje: 1
+2022-06-10 21:03:21 Korisnik LavLov ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='40 81 77 95 12 92 64 74 34 29 82 54 19 20 4 59 53 75 84 32', telefon = ' 385 99-102-2466', email = 'leoleon@gmail.com', adresa = 'Ulica Vladimira Nazora 30', slikaIspunjenogListica = 'listici/1596682247133.jpg' WHERE idListic = '46'/Tip radnje: 2
+2022-06-10 21:03:32/Korisnik LavLov ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='40 81 77 95 12 92 64 74 34 29 82 54 19 20 4 59 53 75 84 32', telefon = ' 385 99-102-2466', email = 'leoleon@gmail.com', adresa = 'Ulica Vladimira Nazora 30', slikaIspunjenogListica = 'listici/1596682247133.jpg' WHERE idListic = '46'/Tip radnje: 2
+2022-06-10 21:04:19/Korisnik LavLov ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='40 81 77 95 12 92 64 74 34 29 82 54 19 20 4 59 53 75 84 32', telefon = ' 385 99-102-2466', email = 'leoleon@gmail.com', adresa = 'Ulica Vladimira Nazora 30', slikaIspunjenogListica = 'listici/lotto ticket.jpg' WHERE idListic = '46'/Tip radnje: 2
+2022-06-10 21:05:03/Korisnik LavLov ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='40 81 77 95 12 92 64 74 34 29 82 54 19 20 4 59 53 75 84 32', telefon = ' 385 99-102-2466', email = 'leoleon@gmail.com', adresa = 'Ulica Vladimira Nazora 30', slikaIspunjenogListica = 'listici/lotto ticket.jpg' WHERE idListic = '46'/Tip radnje: 2
+2022-06-10 21:07:38/Korisnik LavLov ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='40 81 77 95 12 92 64 74 34 29 82 54 19 20 4 59 53 75 84 32', telefon = ' 385 99-102-2466', email = 'leoleon@gmail.com', adresa = 'Ulica Vladimira Nazora 30', slikaIspunjenogListica = 'listici/1200x0.jpg' WHERE idListic = '46'/Tip radnje: 2
+2022-06-11 00:13:32/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 00:13:32/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 00:49:33/Korisnik ekrzina se odjavljuje./Tip radnje = 1
+2022-06-11 00:49:47/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 00:49:47/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 00:50:41/Korisnik ekrzina se odjavljuje./Tip radnje = 1
+2022-06-11 00:50:53/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-11 00:51:00/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-11 00:51:12/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 00:51:12/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 01:21:51/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 01:21:51/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 01:33:34/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-11 14:50:41/Registriran je novi korisnik JeanMatt./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('JeanMatt', 'Žan Matotek', '12345JM' , 'e267e77a81332a1a1799a53e467ebb09bf69ea3af0b2e23d96393b4295883dc7', '2022-06-11 12:50:41', 'zanmato@foi.hr', '2022-06-11 12:50:41', 0, 0, 1, 'MSV10Tmm1V', '2022-06-11 19:50:41')/Tip radnje: 2
+2022-06-11 12:56:11/Korisnik 53 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = 'MSV10Tmm1V'/Tip radnje: 3
+2022-06-11 13:16:59/Korisnik JeanMatt postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 98-235-0028', 'zanmato@foi.hr', 'Ulica Petra Preradovića 13 Vž', '96 5 67 18 23 51 62 95 77 79 3 39 58 35 90 20 11 2 68 16 44 38 74 88 70 54 84 69 7 85 12 87 9 86 89', null, null, '4', '53', '14', '5', 'listici/lottery-ticket-isolated-on-white-background-D3R8N6.jpg', '2022-06-11 13:16:59')/Tip radnje: 2
+2022-06-11 13:26:11/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-11 13:26:25/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-11 13:26:33/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 13:26:33/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 16:26:57/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-11 16:54:33/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-11 16:54:33/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-11 18:13:19/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-11 18:36:25/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-11 18:36:41/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-11 18:36:53/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 18:36:53/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 18:37:04/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-11 18:46:13/Korisnik  se odjavljuje./Tip radnje: 1
+2022-06-11 19:01:35/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-11 19:01:35/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-11 19:05:54/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-11 19:06:02/Za korisnika SunnyBee broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 1
+2022-06-11 19:06:02/Korisnik SunnyBee prijavljuje se./Tip radnje: 1
+2022-06-11 19:06:06/Korisnik SunnyBee se odjavljuje./Tip radnje: 1
+2022-06-11 19:06:20/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-11 19:06:20/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-11 19:46:56/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-11 19:47:04/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-11 19:47:04/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-11 21:14:32/Korisnik ekrzina blokira korisnika 4./Upit: UPDATE Korisnik SET StatusKorisnika = 1 WHERE idKorisnik = 4/Tip radnje: 2
+2022-06-11 22:22:47/Korisnik ekrzina postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 98-408-7743', 'ekrzina@foi.hr', 'Ulica Janka Leskovara 9', '67 19 29 89 64 54 30 20 66 70 60 52 82 32 50 25 2 15 96 40', null, null, '4', '1', '15', '16', 'listici/images.jpeg', '2022-06-11 22:22:47')/Tip radnje: 2
+2022-06-11 22:31:31/Korisnik ekrzina ažurira igru na sreću 6./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '6.5', DatumVrijemePocetka = '2022-04-30 15:00:00', nazivIgre = 'Keno', brojIzvlacenja = '10', fondPoPogodenomBroju = '2400', DatumVrijemeZavrsetka = '2022-04-30 16:00:00' WHERE idIgraNaSrecu = '6'/Tip radnje: 2
+2022-06-11 22:49:49/Korisnik ekrzina zatvara kolo 14/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '45 2 13 19 8 63 62 11 37 24 29 90 20 96 32 83 54 41 26 95 75 71 76 57 92 67 7 84 88 49 70 93 56 82 39' WHERE idKolo = '14'/Tip radnje: 2
+2022-06-11 23:45:57/Korisnik  se odjavljuje./Tip radnje: 1
+2022-06-11 23:46:07/Korisnik SunnyBee upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 2
+2022-06-12 00:15:29/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 00:15:29/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 00:18:37/Registriran je novi korisnik Eirika./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('Eirika', 'Erika Ezop', 'eri23Eir' , '34d2419c3ac7d0ab235c376f79c77b30caf1c30818e10c09a65eaff8a54bb9bb', '2022-06-12 00:18:37', 'eezop@gmail.com', null, 0, 0, 1, 'HD7WpztNi', '2022-06-12 07:18:37')/Tip radnje: 2
+2022-06-12 00:19:48/Korisnik 54 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = 'HD7WpztNi'/Tip radnje: 3
+2022-06-12 00:20:02/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 00:20:12/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-12 00:20:12/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-12 00:20:21/Korisnik JeanMatt šalje zahtjev za isplatom./Upit: INSERT INTO ZahtjevZaIsplatom (iznosIsplate, potvrdeno, Listic_idListic, Korisnik_idKorisnik) VALUES ('3507', null, '47', null)/Tip radnje: 2
+2022-06-12 00:20:41/Korisnik JeanMatt ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='96 5 67 18 23 51 62 95 77 79 3 39 58 35 90 20 11 2 68 16 44 38 74 88 70 54 84 69 7 85 12 87 9 86 89', telefon = ' 385 98-235-0028', email = 'zanmato@foi.hr', adresa = 'Ulica Petra Preradovića 13 Vž', slikaIspunjenogListica = 'listici/istockphoto-1291862188-612x612.jpg, datumUpload = '2022-06-12 00:20:41' WHERE idListic = '47'/Tip radnje: 2
+2022-06-12 00:21:24/Korisnik JeanMatt ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='96 5 67 18 23 51 62 95 77 79 3 39 58 35 90 20 11 2 68 16 44 38 74 88 70 54 84 69 7 85 12 87 9 86 89', telefon = ' 385 98-235-0020', email = 'zanmato@foi.hr', adresa = 'Ulica Petra Preradovića 13 Vž', slikaIspunjenogListica = 'listici/bangkok-thailand-october-antique-lottery-more-than-years-old-price-baht-per-ticket-white-background-isolated-180227220.jpg, datumUpload = '2022-06-12 00:21:24' WHERE idListic = '47'/Tip radnje: 2
+2022-06-12 00:23:44/Korisnik JeanMatt ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='96 5 67 18 23 51 62 95 77 79 3 39 58 35 90 20 11 2 68 16 44 38 74 88 70 54 84 69 7 85 12 87 9 86 89', telefon = ' 385 98-235-0020', email = 'zanmato@foi.hr', adresa = 'Ulica Petra Preradovića 13 Vž', slikaIspunjenogListica = 'listici/lottery-ticket-icon-cartoon-of-lottery-ticket-vector-icon-for-web-design-isolated-on-white-background-2CCPKP6.jpg', datumUpload = '2022-06-12 00:23:44' WHERE idListic = '47'/Tip radnje: 2
+2022-06-12 00:23:56/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-12 00:24:24/Korisnik Eirika upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'Eirika'/Tip radnje: 2
+2022-06-12 00:24:44/Korisnik Eirika upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'Eirika'/Tip radnje: 2
+2022-06-12 00:24:58/Korisnik Eirika upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'Eirika'/Tip radnje: 2
+2022-06-12 00:24:58/Korisnik Eirika je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'Eirika'/Tip radnje: 2
+2022-06-12 00:29:39/Registriran je novi korisnik Eirika./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('Eirika', 'Erika Ezop', 'eiri23kaEir' , 'c076669851fe38fc03161b617c679832934a916d6f023f348bc199cd5676040b', '2022-06-12 00:29:39', 'eezop@foi.hr', null, 0, 0, 1, '4iJ680XPV', '2022-06-12 07:29:39')/Tip radnje: 2
+2022-06-12 00:30:13/Korisnik 55 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = '4iJ680XPV'/Tip radnje: 3
+2022-06-12 00:30:47/Za korisnika Eirika broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Eirika'/Tip radnje: 1
+2022-06-12 00:30:47/Korisnik Eirika prijavljuje se./Tip radnje: 1
+2022-06-12 00:33:15/Korisnik Eirika postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 98-305-2233', 'eezop@foi.hr', 'Ulica Davora Rovera 37 Zaprešić', '19 93 21 53 40 69 24 10 70 32 43 38', null, null, '4', '55', '13', '7', 'listici/cracow-małopolska-poland-circa-january-polish-scratch-card-lotto-lottery-ticket-off-scratchie-numbers-gambling-addiction-174129466.jpg', '2022-06-12 00:33:15')/Tip radnje: 2
+2022-06-12 00:33:32/Korisnik Eirika se odjavljuje./Tip radnje: 1
+2022-06-12 00:35:53/Registriran je novi korisnik DenideWi./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('DenideWi', 'Denis Dewitte', 'dolly' , 'd1747e511120b70cf5b7cf42e3ed53712df0c83732dd6af8f8423a55e59cd142', '2022-06-12 00:35:53', 'denisdewitte@gmail.com', null, 0, 0, 1, 'niB9fUZwIc', '2022-06-12 07:35:53')/Tip radnje: 2
+2022-06-12 00:36:22/Korisnik 56 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = 'niB9fUZwIc'/Tip radnje: 3
+2022-06-12 00:36:28/Za korisnika DenideWi broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'DenideWi'/Tip radnje: 1
+2022-06-12 00:36:28/Korisnik DenideWi prijavljuje se./Tip radnje: 1
+2022-06-12 00:37:00/Korisnik DenideWi se odjavljuje./Tip radnje: 1
+2022-06-12 00:37:07/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 00:37:07/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 01:08:24/Korisnik ekrzina potvrđuje zahtjev za isplatom./Upit: UPDATE ZahtjevZaIsplatom SET potvrdeno = '2022-06-12 01:08:24', Korisnik_idKorisnik = 1 WHERE idZahtjevZaIsplatom = 13/Tip radnje: 2
+2022-06-12 01:10:21/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 01:10:30/Korisnik SunnyBee upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 2
+2022-06-12 01:10:36/Korisnik SunnyBee upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 2
+2022-06-12 01:10:36/Korisnik SunnyBee je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 2
+2022-06-12 01:12:19/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 01:12:19/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 01:12:37/Korisnik ekrzina odblokira korisnika 33./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 33/Tip radnje: 2
+2022-06-12 01:13:11/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 01:13:23/Korisnik SunnyBee je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 2
+2022-06-12 01:13:23/Za korisnika SunnyBee broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 1
+2022-06-12 01:13:23/Korisnik SunnyBee prijavljuje se./Tip radnje: 1
+2022-06-12 01:42:48/Korisnik SunnyBee se odjavljuje./Tip radnje: 1
+2022-06-12 01:43:01/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 01:43:01/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 01:46:17/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 01:46:23/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 01:46:23/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 01:51:20/Korisnik ekrzina zatvara kolo 6/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '42 51 32 52 6 76 8 7 82 97' WHERE idKolo = '6'/Tip radnje: 2
+2022-06-12 01:52:56/Korisnik ekrzina kreira novo kolo./Upit: INSERT INTO Kolo (nazivKolo, statusKola, generiraniBrojevi, datumIsplate, IgraNaSrecu_idIgraNaSrecu) VALUES ('Kolo 18 Toto 13', 0, null, '2021-07-03 00:00:00', '8')/Tip radnje: 2
+2022-06-12 01:53:02/Korisnik ekrzina otvara kolo 18./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '18'Tip radnje: 2
+2022-06-12 01:53:24/Korisnik ekrzina kreira novo kolo./Upit: INSERT INTO Kolo (nazivKolo, statusKola, generiraniBrojevi, datumIsplate, IgraNaSrecu_idIgraNaSrecu) VALUES ('Kolo 19 Toto 13', 0, null, '2022-07-05 00:00:00', '8')/Tip radnje: 2
+2022-06-12 01:53:48/Korisnik ekrzina otvara kolo 9./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '9'Tip radnje: 2
+2022-06-12 01:54:18/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 01:54:29/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 01:54:29/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 01:55:21/Korisnik EuroWinner12 postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 99-102-2466', 'tihomirgal@gmail.com', 'Ulica kralja Trpimira 12 Zg', '65 71 33 80 46 41 48 13 43 24 20 8 31', null, null, '4', '10', '13', '7', 'listici/xgjgxetuskgljzfjlxt6.jpg', '2022-06-12 01:55:21')/Tip radnje: 2
+2022-06-12 01:57:11/Korisnik EuroWinner12 postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 99-102-2466', 'tih', 'Ulica kralja Trpimira 12 Zg', '13 2 23 57 48 99 14 22 98 32', null, null, '4', '10', '11', '1', 'listici/lotto-ticket-27745929.jpg', '2022-06-12 01:57:11')/Tip radnje: 2
+2022-06-12 01:58:21/Korisnik EuroWinner12 postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 99-102-2466', 'tihomirgal@gmail.com', 'Ulica kralja Trpimira 12 Zg', '79 8 63 64 19 24 37 78 41 70', null, null, '4', '10', '10', '2', 'listici/uk-lottery-ticket-and-2-pound-coins-E4JWE2.jpg', '2022-06-12 01:58:21')/Tip radnje: 2
+2022-06-12 01:58:43/Korisnik EuroWinner12 ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='13 2 23 57 48 99 14 22 98 32', telefon = ' 385 99-102-2466', email = '99-102-2466	tihomirgal@gmail.com', adresa = 'Ulica kralja Trpimira 12 Zg', slikaIspunjenogListica = 'listici/uk-10th-oct-2015-changes-to-the-national-lottery-lotto-increasing-F3N4GE.jpg', datumUpload = '2022-06-12 01:58:43' WHERE idListic = '51'/Tip radnje: 2
+2022-06-12 01:59:10/Korisnik EuroWinner12 ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='13 2 23 57 48 99 14 22 98 32', telefon = ' 385 99-102-2466', email = 'tihomirgal@gmail.com', adresa = 'Ulica kralja Trpimira 12 Zg', slikaIspunjenogListica = 'listici/lottery-ticket-vector-228103.jpg', datumUpload = '2022-06-12 01:59:10' WHERE idListic = '51'/Tip radnje: 2
+2022-06-12 02:12:30/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 02:12:37/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-12 02:12:37/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-12 02:20:22/Korisnik EmaBB šalje zahtjev za isplatom./Upit: INSERT INTO ZahtjevZaIsplatom (iznosIsplate, potvrdeno, Listic_idListic, Korisnik_idKorisnik) VALUES ('5000', null, '41', null)/Tip radnje: 2
+2022-06-12 02:26:27/Korisnik EmaBB potvrđuje zahtjev za isplatom./Upit: UPDATE ZahtjevZaIsplatom SET potvrdeno = '2022-06-12 02:26:27', Korisnik_idKorisnik = 2 WHERE idZahtjevZaIsplatom = 19/Tip radnje: 2
+2022-06-12 02:28:38/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-12 02:28:56/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-12 02:28:56/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-12 02:29:10/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-12 02:29:19/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 02:29:19/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 02:29:55/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 02:38:59/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 02:38:59/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 02:41:37/Registriran je novi korisnik Daliah./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('Daliah', 'Dalila Dolić', 'dalila' , '62269f2aa8744c18a010f21ea61635f1f81b3fe98b9df74b38d76cce45e6d581', '2022-06-12 02:41:37', 'dalilado@gmail.com', '2022-06-11 19:46:34', 0, 0, 1, 'trvZlApIVH', '2022-06-12 09:41:37')/Tip radnje: 2
+2022-06-12 15:02:15/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 15:02:15/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 13:27:36/Registriran je novi korisnik LovroL./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('LovroL', 'Lovro Lunarić', 'lovriclo' , 'c516e9b6790b33086f3c52fa9af8a10e5ee06ccfed79f4f8fdb74897c1bf4a10', '2022-06-12 13:27:36', 'ekrzina@foi.hr', '2022-06-12 11:23:53', 0, 0, 1, 'MacwghMQqt', '2022-06-12 20:27:36')/Tip radnje: 2
+2022-06-12 13:28:07/Korisnik 58 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = 'MacwghMQqt'/Tip radnje: 3
+2022-06-12 13:32:22/Za korisnika LovroL broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LovroL'/Tip radnje: 1
+2022-06-12 13:32:22/Korisnik LovroL prijavljuje se./Tip radnje: 1
+2022-06-12 13:35:39/Korisnik LovroL postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 99-353-7742', 'lovrix@gmail.com', 'Ulica bana Jelačića  30 Vž', '2 45 6 42 1 87 36 23 77 5', null, null, '4', '58', '11', '1', 'listici/euro-millions-lottery-ticket-BXR1H4.jpg', '2022-06-12 13:35:39')/Tip radnje: 2
+2022-06-12 13:36:14/Korisnik LovroL se odjavljuje./Tip radnje: 1
+2022-06-12 13:36:45/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 13:36:45/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 13:38:03/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 13:38:16/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 13:38:16/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 13:39:34/Korisnik ekrzina kreira novo kolo./Upit: INSERT INTO Kolo (nazivKolo, statusKola, generiraniBrojevi, datumIsplate, IgraNaSrecu_idIgraNaSrecu) VALUES ('Kolo 20 Super sedmica', 0, null, '2022-07-03 12:22:11', '17')/Tip radnje: 2
+2022-06-12 16:41:05/Korisnik ekrzina igru 21 pridružuje lutriji 11./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('21', '11')/Tip radnje: 2
+2022-06-12 16:41:20/Korisnik ekrzina igru 17 pridružuje lutriji 12./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('17', '12')/Tip radnje: 2
+2022-06-12 16:42:54/Korisnik ekrzina kreira igru na sreću. /Upit: INSERT INTO IgraNaSrecu (nazivIgre, cijenaListicaIgre, datumVrijemePocetka, datumVrijemeZavrsetka, brojIzvlacenja, fondPoPogodenomBroju) VALUES ('Bet5000', '5', '2022-06-06 00:00:00', '2022-08-02 12:20:00', '5', '1000')/Tip radnje: 2
+2022-06-12 16:42:54/Korisnik ekrzinaigru Bet5000 pridružuje lutriji 11./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('22', '11')/Tip radnje: 2
+2022-06-12 16:47:36/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 16:47:48/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 16:47:48/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 16:47:51/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 16:49:40/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:07/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:07/Korisnik dantelion je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:15/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 4 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:43/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:48/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:55/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:50:55/Korisnik dantelion je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-12 16:53:37/Korisnik Daliah briše se iz baze radi zakašnjele aktivacije računa./Upit: DELETE FROM Korisnik WHERE idKorisnik = '57'/Tip radnje: 2
+2022-06-12 16:55:31/Korisnik Gazella upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'Gazella'/Tip radnje: 2
+2022-06-12 16:55:38/Korisnik Gazella upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'Gazella'/Tip radnje: 2
+2022-06-12 16:55:42/Za korisnika Gazella broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Gazella'/Tip radnje: 1
+2022-06-12 16:55:42/Korisnik Gazella prijavljuje se./Tip radnje: 1
+2022-06-12 16:59:33/Korisnik Gazella se odjavljuje./Tip radnje: 1
+2022-06-12 17:00:02/Za korisnika LovroL broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LovroL'/Tip radnje: 1
+2022-06-12 17:00:02/Korisnik LovroL prijavljuje se./Tip radnje: 1
+2022-06-12 17:00:04/Korisnik LovroL se odjavljuje./Tip radnje: 1
+2022-06-12 17:00:12/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= '68140d4883bc21f3a57a211a10439317c9cdd7be62dac56cebdb562267963260', lozinka = 'c0ldRbydw1LA' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:03:36/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= '37a64f6b9bdd684fdc0dee4df4762a2acbb14296116ad969e80c74b6daa93a15', lozinka = 'zxg8lkhrAj0' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:09:09/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= 'b9771b296640d4e727a9797b10749a9cd06c881b5b5bfa2fd9889a17b0c3c500', lozinka = 'kbWjfHyegS5X' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:10:29/Korisnik LovroL upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:10:34/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= '3e1756bcc7cb1200de7be947f75f29e76569e162c835eed97b4a639092a47209', lozinka = 'RknBppHlraSv' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:11:02/Korisnik LovroL upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:12:49/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= 'c79cc089c01a90b09c60d374d47754634d83fcce3d98d93dbad81f981d751036', lozinka = 'u5DyIh37z1vF' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:13:22/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= '34bf6882c5baed9ca4f956d5dda3f7c5468094cc09908d178050f8ac93761604', lozinka = 'inO2TCfuRUxV' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:15:17/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= 'aa4a154d3ec5415ee65bb7cc77ab07a0bb1da0aa63cf1513efaf12c7faa0b763', lozinka = 'fXQv0jjrLm' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:16:06/Za korisnika LovroL broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LovroL'/Tip radnje: 1
+2022-06-12 17:16:06/Korisnik LovroL prijavljuje se./Tip radnje: 1
+2022-06-12 17:18:40/Korisnik LovroL se odjavljuje./Tip radnje: 1
+2022-06-12 17:19:55/Korisnik LovroL mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= '1f15f366a3f4542975a69e0a28bccb903457177a1c239b8ba96c282afcbfe280', lozinka = 'sH8jNxSwiXwK' WHERE korisnickoIme = 'LovroL'/Tip radnje: 2
+2022-06-12 17:20:39/Za korisnika LovroL broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'LovroL'/Tip radnje: 1
+2022-06-12 17:20:39/Korisnik LovroL prijavljuje se./Tip radnje: 1
+2022-06-12 17:25:55/Korisnik LovroL ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='2 45 6 42 1 87 36 23 77 5', telefon = ' 385 99-353-7042', email = 'lovrix@gmail.com', adresa = 'Ulica bana Jelačića  30 Vž', slikaIspunjenogListica = 'listici/euro-jackpot-lottery-ticket-polish-lotto-pruszcz-gdanski-poland-january-euro-jackpot-lottery-ticket-polish-lotto-168223916.jpg', datumUpload = '2022-06-12 17:25:55' WHERE idListic = '53'/Tip radnje: 2
+2022-06-12 17:27:27/Korisnik LovroL postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 99-353-7042', 'lovrix@gmail.com', 'Ulica bana Jelačića  30 Vž', '1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20', null, null, '4', '58', '15', '16', 'listici/pexels-photo-5550130.jpeg', '2022-06-12 17:27:27')/Tip radnje: 2
+2022-06-12 17:27:56/Korisnik LovroL se odjavljuje./Tip radnje: 1
+2022-06-12 17:28:39/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 17:28:39/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 17:47:53/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 17:48:53/Za korisnika SunnyBee broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 1
+2022-06-12 17:48:53/Korisnik SunnyBee prijavljuje se./Tip radnje: 1
+2022-06-12 17:49:04/Korisnik SunnyBee se odjavljuje./Tip radnje: 1
+2022-06-12 17:49:14/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-12 17:49:14/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-12 17:49:31/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-12 17:49:44/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 17:49:44/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 17:49:51/Korisnik EuroWinner12 šalje zahtjev za isplatom./Upit: INSERT INTO ZahtjevZaIsplatom (iznosIsplate, potvrdeno, Listic_idListic, Korisnik_idKorisnik) VALUES ('14000', null, '9', null)/Tip radnje: 2
+2022-06-12 17:50:54/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 17:51:04/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-12 17:51:04/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-12 17:51:38/Korisnik Edmund F. potvrđuje zahtjev za isplatom./Upit: UPDATE ZahtjevZaIsplatom SET potvrdeno = '2022-06-12 17:51:38', Korisnik_idKorisnik = 8 WHERE idZahtjevZaIsplatom = 18/Tip radnje: 2
+2022-06-12 17:54:16/Korisnik Edmund F. kreira novo kolo./Upit: INSERT INTO Kolo (nazivKolo, statusKola, generiraniBrojevi, datumIsplate, IgraNaSrecu_idIgraNaSrecu) VALUES ('Kolo 21 Bingo', 0, null, '2022-07-03 12:22:11', '4')/Tip radnje: 2
+2022-06-12 17:55:03/Korisnik Edmund F. otvara kolo 21./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '21'Tip radnje: 2
+2022-06-12 17:55:28/Korisnik Edmund F. zatvara kolo 9/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '29 27 55 89 94 25 59 30 18 42' WHERE idKolo = '9'/Tip radnje: 2
+2022-06-12 17:59:25/Korisnik Edmund F. otvara kolo 9./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '9'Tip radnje: 2
+2022-06-12 17:59:35/Korisnik Edmund F. zatvara kolo 9/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '96 54 2 78 57 37 97 4 7 86' WHERE idKolo = '9'/Tip radnje: 2
+2022-06-12 18:01:57/Korisnik Edmund F. otvara kolo 9./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '9'Tip radnje: 2
+2022-06-12 18:05:35/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-12 18:05:47/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-12 18:05:47/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-12 18:07:17/Korisnik JeanMatt postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 99-485-2239', 'zanmato@foi.hr', 'Ulica Davora Rovera 37 Zaprešić', '40 52 99 10 21 9 50 38 44 32', null, null, '4', '53', '11', '1', 'listici/euro-millions-lottery-ticket-BXR1H4.jpg', '2022-06-12 18:07:17')/Tip radnje: 2
+2022-06-12 18:07:49/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-12 18:07:59/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-12 18:07:59/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-12 18:08:08/Korisnik Edmund F. zatvara kolo 11/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '48 35 80 30 66 33 9 18 54 97' WHERE idKolo = '11'/Tip radnje: 2
+2022-06-12 18:08:11/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-12 18:08:26/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-12 18:08:26/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-12 18:09:01/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-12 18:09:20/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-12 18:09:20/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-12 18:09:41/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-12 18:09:50/Za korisnika SunnyBee broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'SunnyBee'/Tip radnje: 1
+2022-06-12 18:09:50/Korisnik SunnyBee prijavljuje se./Tip radnje: 1
+2022-06-12 18:09:58/Korisnik SunnyBee se odjavljuje./Tip radnje: 1
+2022-06-12 18:10:17/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-12 18:10:17/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-12 18:10:28/Korisnik JeanMatt šalje zahtjev za isplatom./Upit: INSERT INTO ZahtjevZaIsplatom (iznosIsplate, potvrdeno, Listic_idListic, Korisnik_idKorisnik) VALUES ('7500', null, '55', null)/Tip radnje: 2
+2022-06-12 18:10:30/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-12 18:10:37/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-12 18:10:37/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-12 18:10:43/Korisnik EmaBB potvrđuje zahtjev za isplatom./Upit: UPDATE ZahtjevZaIsplatom SET potvrdeno = '2022-06-12 18:10:43', Korisnik_idKorisnik = 2 WHERE idZahtjevZaIsplatom = 21/Tip radnje: 2
+2022-06-12 18:10:47/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-12 18:10:59/Za korisnika JeanMatt broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'JeanMatt'/Tip radnje: 1
+2022-06-12 18:10:59/Korisnik JeanMatt prijavljuje se./Tip radnje: 1
+2022-06-12 18:11:06/Korisnik JeanMatt se odjavljuje./Tip radnje: 1
+2022-06-12 18:14:42/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 18:14:42/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 18:15:18/Korisnik ekrzina ažurira igru na sreću 16./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '8', DatumVrijemePocetka = '2022-06-07 12:42:00', nazivIgre = 'Dame', brojIzvlacenja = '20', fondPoPogodenomBroju = '255', DatumVrijemeZavrsetka = '2022-06-16 14:40:00' WHERE idIgraNaSrecu = '16'/Tip radnje: 2
+2022-06-12 18:16:40/Korisnik ekrzina kreira igru na sreću. /Upit: INSERT INTO IgraNaSrecu (nazivIgre, cijenaListicaIgre, datumVrijemePocetka, datumVrijemeZavrsetka, brojIzvlacenja, fondPoPogodenomBroju) VALUES ('Scratch 5', '2', '2022-06-07 12:40:00', '2022-06-30 12:40:00', '10', '5')/Tip radnje: 2
+2022-06-12 18:16:40/Korisnik ekrzinaigru Scratch 5 pridružuje lutriji 12./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('23', '12')/Tip radnje: 2
+2022-06-12 18:16:53/Korisnik ekrzina ažurira igru na sreću 23./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '2', DatumVrijemePocetka = '2022-06-07 12:40:00', nazivIgre = 'Scratch 5', brojIzvlacenja = '10', fondPoPogodenomBroju = '20', DatumVrijemeZavrsetka = '2022-06-30 12:40:00' WHERE idIgraNaSrecu = '23'/Tip radnje: 2
+2022-06-12 18:17:18/Korisnik ekrzina igru 23 pridružuje lutriji 9./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('23', '9')/Tip radnje: 2
+2022-06-12 18:19:57/Korisnik ekrzina igru 23 pridružuje lutriji 9./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('23', '9')/Tip radnje: 2
+2022-06-12 18:37:34/Korisnik ekrzina igru 1 pridružuje lutriji 2./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('1', '2')/Tip radnje: 2
+2022-06-12 18:40:40/Korisnik ekrzina kreira novu lutriju./Upit: INSERT INTO Lutrija (nazivLutrije, infoTelefon, email, webAdresa) VALUES ('LuteMute', '0800-386-3740', 'lutemute@lutrija.hr', 'https://lutemute.hr')/Tip radnje: 1
+2022-06-12 18:41:13/Korisnik ekrzina mijenja podatke lutrije LuteMute./Upit: UPDATE Lutrija SET nazivLutrije = 'LuteMute', infoTelefon = '0800-482-9361', email = 'lutemute@lutrija.hr', webAdresa = 'https://www.lutemute.hr' WHERE idLutrija = '13'/Tip radnje: 2
+2022-06-12 18:41:26/Korisnik ekrzina lutriji 13 dodijeljuje novog moderatora 12/Upit: UPDATE Korisnik SET uloga_idUloga = 3 WHERE idKorisnik = '12'/Tip radnje: 2
+2022-06-12 18:41:31/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 18:41:37/Za korisnika cban broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'cban'/Tip radnje: 1
+2022-06-12 18:41:37/Korisnik cban prijavljuje se./Tip radnje: 1
+2022-06-12 18:42:31/Korisnik cban se odjavljuje./Tip radnje: 1
+2022-06-12 18:42:43/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-12 18:42:49/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 18:42:49/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 18:43:56/Korisnik ekrzina odblokira korisnika 4./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 4/Tip radnje: 2
+2022-06-12 18:44:11/Korisnik ekrzina blokira korisnika 4./Upit: UPDATE Korisnik SET StatusKorisnika = 1 WHERE idKorisnik = 4/Tip radnje: 2
+2022-06-12 18:45:15/Korisnik ekrzina blokira korisnika 25./Upit: UPDATE Korisnik SET StatusKorisnika = 1 WHERE idKorisnik = 25/Tip radnje: 2
+2022-06-12 18:45:24/Korisnik ekrzina odblokira korisnika 25./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 25/Tip radnje: 2
+2022-06-12 18:45:41/Korisnik ekrzina odblokira korisnika 14./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 14/Tip radnje: 2
+2022-06-12 18:45:46/Korisnik ekrzina odblokira korisnika 26./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 26/Tip radnje: 2
+2022-06-12 18:45:51/Korisnik ekrzina odblokira korisnika 23./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 23/Tip radnje: 2
+2022-06-12 18:46:49/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 18:50:21/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-12 18:50:21/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-12 20:46:50/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-12 20:46:50/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-12 20:54:13/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-12 20:54:31/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 20:54:31/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 20:54:55/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 20:55:05/Za korisnika cban broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'cban'/Tip radnje: 1
+2022-06-12 20:55:05/Korisnik cban prijavljuje se./Tip radnje: 1
+2022-06-12 21:20:46/Korisnik cban se odjavljuje./Tip radnje: 1
+2022-06-12 21:21:05/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 21:21:05/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 21:21:14/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 21:21:26/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-12 21:21:26/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-12 21:36:02/Korisnik Edmund F. kreira igru na sreću. /Upit: INSERT INTO IgraNaSrecu (nazivIgre, cijenaListicaIgre, datumVrijemePocetka, datumVrijemeZavrsetka, brojIzvlacenja, fondPoPogodenomBroju) VALUES ('Eurospare', '7.5', '2022-06-07 12:40:00', '2022-06-27 12:40:00', null, null)/Tip radnje: 2
+2022-06-12 21:36:02/Korisnik Edmund F.igru Eurospare pridružuje lutriji 2./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('24', '2')/Tip radnje: 2
+2022-06-12 21:43:03/Korisnik Edmund F. igru 24 pridružuje lutriji 6./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('24', '6')/Tip radnje: 2
+2022-06-12 21:47:25/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-12 21:53:04/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-12 21:53:04/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-12 21:55:01/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-12 21:56:11/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-12 21:56:11/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-12 21:56:19/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-12 22:09:01/Korisnik cban upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'cban'/Tip radnje: 2
+2022-06-12 22:10:01/Korisnik cban upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'cban'/Tip radnje: 2
+2022-06-12 22:11:21/Korisnik ekrzina upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 2
+2022-06-12 22:32:27/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 22:32:27/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 22:33:28/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 22:33:40/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 22:33:40/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 22:34:08/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 22:34:17/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 22:34:17/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 22:35:28/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 22:37:56/Registriran je novi korisnik NovakoN./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('NovakoN', 'Novak Novakovič', 'lutrija4life' , '9a5e413413814498b628164053e8cf5ce781be23d6ec9f051277ebc8042aa16c', '2022-06-12 22:37:56', 'novakno@gmail.com', '2022-06-12 14:23:53', 0, 0, 1, 'p2qkPWT7ZM', '2022-06-13 05:37:56')/Tip radnje: 2
+2022-06-12 22:40:02/Registriran je novi korisnik NovakoN./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('NovakoN', 'Novak Novakovič', 'lutrija4life' , '9a5e413413814498b628164053e8cf5ce781be23d6ec9f051277ebc8042aa16c', '2022-06-12 22:40:02', 'novakno@gmail.com', '2022-06-12 14:23:53', 0, 0, 1, '0iNKSPW654', '2022-06-13 05:40:02')/Tip radnje: 2
+2022-06-12 22:47:46/Registriran je novi korisnik OliK24./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('OliK24', 'Oliver Hajdarović', 'olialles' , '54633fa4899f4927fd26e38c0edcd08173b182d116238e5bd7adc6349ee3c9f1', '2022-06-12 22:47:46', 'olihajdarovic@gmail.com', '2022-06-12 14:23:53', 0, 0, 1, 'r00VZw9kNa', '2022-06-13 05:47:46')/Tip radnje: 2
+2022-06-12 22:48:54/Korisnik 61 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = 'r00VZw9kNa'/Tip radnje: 3
+2022-06-12 22:49:06/Za korisnika OliK24 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'OliK24'/Tip radnje: 1
+2022-06-12 22:49:06/Korisnik OliK24 prijavljuje se./Tip radnje: 1
+2022-06-12 23:25:06/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 23:25:06/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 23:25:10/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 23:26:15/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 23:26:15/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 23:26:18/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 23:27:07/Korisnik OliK24 se odjavljuje./Tip radnje: 1
+2022-06-12 23:27:16/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 23:27:16/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 23:27:19/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 23:31:04/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 23:31:04/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 23:31:05/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 23:31:23/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 23:31:23/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 23:31:34/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 23:32:40/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 23:32:40/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 23:32:56/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 23:36:53/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 23:36:53/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 23:36:55/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 23:37:47/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 23:37:47/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 23:37:50/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 23:38:01/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 23:38:01/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 23:38:06/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 23:40:21/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 23:40:21/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 23:40:27/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 23:44:02/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:44:14/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:44:20/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:44:20/Korisnik OliK24 je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:45:09/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:45:14/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:45:20/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:45:20/Korisnik OliK24 je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:47:13/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:47:17/Korisnik  upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'Oli24K'/Tip radnje: 2
+2022-06-12 23:47:17/Korisnik  briše se iz baze radi zakašnjele aktivacije računa./Upit: DELETE FROM Korisnik WHERE idKorisnik = ''/Tip radnje: 2
+2022-06-12 23:47:23/Korisnik  upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'Oli24K'/Tip radnje: 2
+2022-06-12 23:47:23/Korisnik  briše se iz baze radi zakašnjele aktivacije računa./Upit: DELETE FROM Korisnik WHERE idKorisnik = ''/Tip radnje: 2
+2022-06-12 23:48:21/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:48:59/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:48:59/Korisnik OliK24 je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:49:08/Korisnik OliK24 upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 4 WHERE korisnickoIme = 'OliK24'/Tip radnje: 2
+2022-06-12 23:50:15/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-12 23:50:15/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-12 23:50:53/Korisnik ekrzina odblokira korisnika 61./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 61/Tip radnje: 2
+2022-06-12 23:50:56/Korisnik ekrzina blokira korisnika 61./Upit: UPDATE Korisnik SET StatusKorisnika = 1 WHERE idKorisnik = 61/Tip radnje: 2
+2022-06-12 21:51:43/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-12 22:22:07/Za korisnika EuroWinner12 broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EuroWinner12'/Tip radnje: 1
+2022-06-12 22:22:07/Korisnik EuroWinner12 prijavljuje se./Tip radnje: 1
+2022-06-12 22:26:11/Korisnik EuroWinner12 se odjavljuje./Tip radnje: 1
+2022-06-12 22:28:09/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-12 22:28:09/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 00:29:44/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-13 00:29:44/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 00:29:46/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-13 00:31:17/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-13 00:31:17/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 00:32:20/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-13 00:37:05/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-13 00:37:05/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 15:35:44/Registriran je novi korisnik ednah./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('ednah', 'Edna Kalnik', 'etna' , '14aa804163ae36c8b4da229bbf9758662641f01a3e805f008ca2c4efa9c55884', '2022-06-13 15:35:44', 'ekrzina@foi.hr', '2022-06-13 14:31:50', 0, 0, 1, 'pWWYoaGssV', '2022-06-13 22:35:44')/Tip radnje: 2
+2022-06-13 15:39:10/Korisnik 62 aktivira račun./Upit: UPDATE Korisnik SET uloga_idUloga = 2 WHERE aktivacijskiKod = 'pWWYoaGssV'/Tip radnje: 3
+2022-06-13 16:04:20/Korisnik ednah mijenja lozinku./Upit: UPDATE Korisnik SET lozinkaSha256= 'a5c0a9f830880be75548f64d6c95e36c65b5f77908193aa95260a5c4d062a647', lozinka = 'ntdWeWqKRcTc' WHERE korisnickoIme = 'ednah'/Tip radnje: 2
+2022-06-13 16:04:57/Za korisnika ednah broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ednah'/Tip radnje: 1
+2022-06-13 16:04:57/Korisnik ednah prijavljuje se./Tip radnje: 1
+2022-06-13 16:05:03/Korisnik ednah se odjavljuje./Tip radnje: 1
+2022-06-13 16:05:43/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-13 16:05:43/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-13 16:06:41/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-13 16:06:47/Korisnik ednah upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'ednah'/Tip radnje: 2
+2022-06-13 16:06:49/Korisnik ednah upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 2 WHERE korisnickoIme = 'ednah'/Tip radnje: 2
+2022-06-13 16:06:52/Korisnik ednah upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 3 WHERE korisnickoIme = 'ednah'/Tip radnje: 2
+2022-06-13 16:06:52/Korisnik ednah je blokiran./Upit: UPDATE Korisnik SET statusKorisnika = 1 WHERE korisnickoIme = 'ednah'/Tip radnje: 2
+2022-06-13 16:06:57/Korisnik ednah upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 4 WHERE korisnickoIme = 'ednah'/Tip radnje: 2
+2022-06-13 16:07:11/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-13 16:07:11/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-13 19:16:33/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-13 19:16:47/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 19:16:47/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 19:19:04/Korisnik dantelion postavlja listić./Upit: INSERT INTO Listic (telefon, email, adresa, odabraniBrojevi, brojPogodenihBrojeva, osvojeniIznos, StatusListica_idStatusListica, Korisnik_idKorisnik, Kolo_idKolo, IgraNaSrecu_idIgraNaSrecu, slikaIspunjenogListica, datumUpload) VALUES ('+385 95-663-9946', 'dante@gmail.com', 'Ulica kneza Trpimira 118 Zg', '63 83 42 91 6 73 8', null, null, '4', '14', '10', '2', 'listici/istockphoto-175230015-612x612.jpg', '2022-06-13 19:19:04')/Tip radnje: 2
+2022-06-13 19:20:13/Korisnik dantelion ažurira svoj listić./Upit: UPDATE Listic SET odabraniBrojevi='63 83 42 91 6 73 8', telefon = ' 385 95-663-9946', email = 'dleon@gmail.com', adresa = 'Ulica kneza Trpimira 118 Zg', slikaIspunjenogListica = 'listici/istockphoto-185258167-2048x2048.jpg', datumUpload = '2022-06-13 19:20:13' WHERE idListic = '56'/Tip radnje: 2
+2022-06-13 19:21:36/Korisnik dantelion šalje zahtjev za isplatom./Upit: INSERT INTO ZahtjevZaIsplatom (iznosIsplate, potvrdeno, Listic_idListic, Korisnik_idKorisnik) VALUES ('7500', null, '37', null)/Tip radnje: 2
+2022-06-13 19:22:45/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 19:23:15/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-13 19:23:15/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-13 19:23:47/Korisnik EmaBB ažurira igru na sreću 17./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '9', DatumVrijemePocetka = '2022-06-07 12:40:00', DatumVrijemeZavrsetka = '2022-06-30 13:10:00' WHERE idIgraNaSrecu = '17'/Tip radnje: 2
+2022-06-13 19:24:36/Korisnik EmaBB kreira igru na sreću. /Upit: INSERT INTO IgraNaSrecu (nazivIgre, cijenaListicaIgre, datumVrijemePocetka, datumVrijemeZavrsetka, brojIzvlacenja, fondPoPogodenomBroju) VALUES ('Take5', '5', '2022-07-07 12:20:00', '2022-07-30 12:00:00', null, null)/Tip radnje: 2
+2022-06-13 19:24:36/Korisnik EmaBBigru Take5 pridružuje lutriji 3./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('25', '3')/Tip radnje: 2
+2022-06-13 19:24:49/Korisnik EmaBB igru 25 pridružuje lutriji 5./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('25', '5')/Tip radnje: 2
+2022-06-13 19:25:09/Korisnik EmaBB igru 25 pridružuje lutriji 3./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('25', '3')/Tip radnje: 2
+2022-06-13 19:25:29/Korisnik EmaBB igru 4 pridružuje lutriji 4./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('4', '4')/Tip radnje: 2
+2022-06-13 19:26:24/Korisnik EmaBB kreira novo kolo./Upit: INSERT INTO Kolo (nazivKolo, statusKola, generiraniBrojevi, datumIsplate, IgraNaSrecu_idIgraNaSrecu) VALUES ('Kolo 22 Lotto Max', 0, null, '2022-05-07 00:00:00', '21')/Tip radnje: 2
+2022-06-13 19:26:32/Korisnik EmaBB otvara kolo 22./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '22'Tip radnje: 2
+2022-06-13 19:26:54/Korisnik EmaBB zatvara kolo 10/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '46 39 21 35 13 59 91' WHERE idKolo = '10'/Tip radnje: 2
+2022-06-13 19:30:14/Korisnik EmaBB otvara kolo 10./Upit: UPDATE Kolo SET statusKola = 1, generiraniBrojevi = null WHERE idKolo = '10'Tip radnje: 2
+2022-06-13 19:30:27/Korisnik EmaBB zatvara kolo 10/Upit: UPDATE Kolo SET statusKola = 0, generiraniBrojevi = '20 67 81 85 22 9 60' WHERE idKolo = '10'/Tip radnje: 2
+2022-06-13 19:31:20/Korisnik EmaBB ažurira kolo./Upit: UPDATE Kolo SET nazivKolo='Kolo 22 EuroJackpot', datumIsplate = '2022-07-06 00:00:00', IgraNaSrecu_idIgraNaSrecu = '1' WHERE idKolo = '22'/Tip radnje: 2
+2022-06-13 19:33:19/Korisnik EmaBB ažurira kolo./Upit: UPDATE Kolo SET nazivKolo='Kolo 20 Super sedmica', datumIsplate = '2022-07-02 12:22:11', IgraNaSrecu_idIgraNaSrecu = '17' WHERE idKolo = '20'/Tip radnje: 2
+2022-06-13 19:34:09/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-13 19:34:15/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 19:34:15/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 19:34:32/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 19:35:08/Za korisnika EmaBB broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'EmaBB'/Tip radnje: 1
+2022-06-13 19:35:08/Korisnik EmaBB prijavljuje se./Tip radnje: 1
+2022-06-13 19:37:18/Korisnik EmaBB se odjavljuje./Tip radnje: 1
+2022-06-13 19:37:26/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-13 19:37:26/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-13 19:38:23/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-13 19:38:38/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-13 19:38:38/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 19:39:01/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 19:39:01/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 19:39:32/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-13 19:39:32/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 19:39:40/Korisnik Edmund F. potvrđuje zahtjev za isplatom./Upit: UPDATE ZahtjevZaIsplatom SET potvrdeno = '2022-06-13 19:39:40', Korisnik_idKorisnik = 8 WHERE idZahtjevZaIsplatom = 22/Tip radnje: 2
+2022-06-13 19:39:44/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-13 19:39:53/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 19:39:53/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 19:40:12/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 19:40:25/Za korisnika Edmund F. broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'Edmund F.'/Tip radnje: 1
+2022-06-13 19:40:25/Korisnik Edmund F. prijavljuje se./Tip radnje: 1
+2022-06-13 19:42:17/Korisnik Edmund F. se odjavljuje./Tip radnje: 1
+2022-06-13 19:42:26/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-13 19:42:26/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-13 19:42:53/Korisnik ekrzina odblokira korisnika 62./Upit: UPDATE Korisnik SET StatusKorisnika = 0 WHERE idKorisnik = 62/Tip radnje: 2
+2022-06-13 19:43:08/Korisnik ekrzina blokira korisnika 20./Upit: UPDATE Korisnik SET StatusKorisnika = 1 WHERE idKorisnik = 20/Tip radnje: 2
+2022-06-13 19:43:47/Korisnik ekrzina ažurira igru na sreću 21./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '7', DatumVrijemePocetka = '2022-06-07 12:40:00', nazivIgre = 'Lotto Max', brojIzvlacenja = '30', fondPoPogodenomBroju = '280', DatumVrijemeZavrsetka = '2022-06-30 13:10:00' WHERE idIgraNaSrecu = '21'/Tip radnje: 2
+2022-06-13 19:44:40/Korisnik ekrzina kreira igru na sreću. /Upit: INSERT INTO IgraNaSrecu (nazivIgre, cijenaListicaIgre, datumVrijemePocetka, datumVrijemeZavrsetka, brojIzvlacenja, fondPoPogodenomBroju) VALUES ('Kolo sreće', '10', '2022-06-01 12:20:00', '2022-07-30 12:00:00', '20', '250')/Tip radnje: 2
+2022-06-13 19:44:40/Korisnik ekrzinaigru Kolo sreće pridružuje lutriji 8./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('26', '8')/Tip radnje: 2
+2022-06-13 19:44:48/Korisnik ekrzina ažurira igru na sreću 26./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '10', DatumVrijemePocetka = '2022-06-01 12:20:00', nazivIgre = 'Kolo sreće', brojIzvlacenja = '20', fondPoPogodenomBroju = '280', DatumVrijemeZavrsetka = '2022-07-30 12:00:00' WHERE idIgraNaSrecu = '26'/Tip radnje: 2
+2022-06-13 19:45:06/Korisnik ekrzina ažurira igru na sreću 4./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '10', DatumVrijemePocetka = '2022-04-26 16:30:00', nazivIgre = 'Bingo', brojIzvlacenja = '10', fondPoPogodenomBroju = '800', DatumVrijemeZavrsetka = '2022-04-26 17:30:00' WHERE idIgraNaSrecu = '4'/Tip radnje: 2
+2022-06-13 19:45:11/Korisnik ekrzina ažurira igru na sreću 1./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '10', DatumVrijemePocetka = '2022-04-11 12:00:00', nazivIgre = 'EuroJackpot', brojIzvlacenja = '10', fondPoPogodenomBroju = '750', DatumVrijemeZavrsetka = '2022-06-11 13:00:00' WHERE idIgraNaSrecu = '1'/Tip radnje: 2
+2022-06-13 19:45:17/Korisnik ekrzina ažurira igru na sreću 6./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '6.5', DatumVrijemePocetka = '2022-04-30 15:00:00', nazivIgre = 'Keno', brojIzvlacenja = '10', fondPoPogodenomBroju = '240', DatumVrijemeZavrsetka = '2022-04-30 16:00:00' WHERE idIgraNaSrecu = '6'/Tip radnje: 2
+2022-06-13 19:45:29/Korisnik ekrzina ažurira igru na sreću 8./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '7.5', DatumVrijemePocetka = '2022-05-07 12:20:00', nazivIgre = 'Toto 13', brojIzvlacenja = '13', fondPoPogodenomBroju = '130', DatumVrijemeZavrsetka = '2022-06-10 13:10:00' WHERE idIgraNaSrecu = '8'/Tip radnje: 2
+2022-06-13 19:45:35/Korisnik ekrzina ažurira igru na sreću 2./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '7.6', DatumVrijemePocetka = '2022-04-20 13:00:00', nazivIgre = 'Loto 7', brojIzvlacenja = '7', fondPoPogodenomBroju = '700', DatumVrijemeZavrsetka = '2022-07-20 14:00:00' WHERE idIgraNaSrecu = '2'/Tip radnje: 2
+2022-06-13 19:45:45/Korisnik ekrzina ažurira igru na sreću 17./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '9', DatumVrijemePocetka = '2022-06-07 12:40:00', nazivIgre = 'Super sedmica', brojIzvlacenja = '7', fondPoPogodenomBroju = '775', DatumVrijemeZavrsetka = '2022-06-30 13:10:00' WHERE idIgraNaSrecu = '17'/Tip radnje: 2
+2022-06-13 19:45:52/Korisnik ekrzina ažurira igru na sreću 3./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '6.5', DatumVrijemePocetka = '2022-04-21 12:00:00', nazivIgre = 'Loto 6', brojIzvlacenja = '6', fondPoPogodenomBroju = '600', DatumVrijemeZavrsetka = '2022-04-21 13:00:00' WHERE idIgraNaSrecu = '3'/Tip radnje: 2
+2022-06-13 19:45:58/Korisnik ekrzina ažurira igru na sreću 7./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '12', DatumVrijemePocetka = '2022-05-02 12:00:00', nazivIgre = 'Joker', brojIzvlacenja = '12', fondPoPogodenomBroju = '300', DatumVrijemeZavrsetka = '2022-06-05 12:30:00' WHERE idIgraNaSrecu = '7'/Tip radnje: 2
+2022-06-13 19:46:10/Korisnik ekrzina ažurira igru na sreću 5./Upit: UPDATE IgraNaSrecu SET cijenaListicaIgre = '8.5', DatumVrijemePocetka = '2022-04-27 09:30:00', nazivIgre = 'Brzih 35', brojIzvlacenja = '35', fondPoPogodenomBroju = '80', DatumVrijemeZavrsetka = '2022-04-27 09:50:00' WHERE idIgraNaSrecu = '5'/Tip radnje: 2
+2022-06-13 19:46:25/Korisnik ekrzina igru 26 pridružuje lutriji 8./Upit: INSERT INTO IgreLutrije (IgraNaSrecu_idIgraNaSrecu, Lutrija_idLutrija) VALUES ('26', '8')/Tip radnje: 2
+2022-06-13 19:47:53/Korisnik ekrzina kreira novu lutriju./Upit: INSERT INTO Lutrija (nazivLutrije, infoTelefon, email, webAdresa) VALUES ('Dobra šansa', '0800-903-2378', 'dobrasansa@lutrija.hr', 'https://www.dobrasansa.hr')/Tip radnje: 1
+2022-06-13 19:48:14/Korisnik ekrzina mijenja podatke lutrije Dobra šansa./Upit: UPDATE Lutrija SET nazivLutrije = 'Dobra šansa', infoTelefon = '0800-903-2378', email = 'dobrasansa.pomoc@lutrija.hr', webAdresa = 'https://www.dobrasansa.hr' WHERE idLutrija = '14'/Tip radnje: 2
+2022-06-13 19:49:08/Korisnik ekrzina kreira novu lutriju./Upit: INSERT INTO Lutrija (nazivLutrije, infoTelefon, email, webAdresa) VALUES ('Prilika', '0800-436-4350', 'prilika.pomoc@lutrija.hr', 'https://www.prilikalutrija.hr')/Tip radnje: 1
+2022-06-13 19:52:08/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 19:52:08/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 19:52:18/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 20:20:07/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 20:20:07/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 20:44:32/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 20:44:41/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 20:44:41/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 20:44:52/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 20:45:02/Korisnik dantelion upisuje krivu lozinku./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 1 WHERE korisnickoIme = 'dantelion'/Tip radnje: 2
+2022-06-13 20:45:09/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 20:45:09/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 20:45:11/Korisnik dantelion se odjavljuje./Tip radnje: 1
+2022-06-13 20:45:18/Za korisnika dantelion broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'dantelion'/Tip radnje: 1
+2022-06-13 20:45:18/Korisnik dantelion prijavljuje se./Tip radnje: 1
+2022-06-13 23:05:57/Registriran je novi korisnik TinTon./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('TinTon', 'Tin Tonić', 'tintin' , 'a1547110809da4ffb2f8725dcdabd35d7597b3f04c883b070fe9c2452c33f94d', '2022-06-13 23:05:57', 'tinton@gmail.com', '2022-06-13 17:31:50', 0, 0, 1, 'fnUGIFHKhZ', '2022-06-14 06:05:57')/Tip radnje: 2
+2022-06-13 23:06:18/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-13 23:06:18/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-13 23:06:38/Korisnik ekrzina se odjavljuje./Tip radnje: 1
+2022-06-14 00:54:25/Registriran je novi korisnik AnaKar./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('AnaKar', 'Ana Karenjina', 'ana345' , 'a4f6d6d7ff40298a0157cc94c6a714d89db9ba59ef4b630effc1dc5abc5a1ba9', '2022-06-14 00:54:25', 'ekrzina@foi.hr', '2022-06-13 17:31:50', 0, 0, 1, '6fYSp4mjSf', '2022-06-14 07:54:25')/Tip radnje: 2
+2022-06-14 00:54:36/Registriran je novi korisnik AnaKar./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('AnaKar', 'Ana Karenjina', 'ana345' , 'a4f6d6d7ff40298a0157cc94c6a714d89db9ba59ef4b630effc1dc5abc5a1ba9', '2022-06-14 00:54:36', 'ekrzina@foi.hr', '2022-06-13 17:31:50', 0, 0, 1, 'Iuw64kom3a', '2022-06-14 07:54:36')/Tip radnje: 2
+2022-06-14 00:54:38/Registriran je novi korisnik AnaKar./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('AnaKar', 'Ana Karenjina', 'ana345' , 'a4f6d6d7ff40298a0157cc94c6a714d89db9ba59ef4b630effc1dc5abc5a1ba9', '2022-06-14 00:54:38', 'ekrzina@foi.hr', '2022-06-13 17:31:50', 0, 0, 1, 'kx7KPrmeYl', '2022-06-14 07:54:38')/Tip radnje: 2
+2022-06-14 00:54:43/Registriran je novi korisnik AnaKar./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('AnaKar', 'Ana Karenjina', 'ana345' , 'a4f6d6d7ff40298a0157cc94c6a714d89db9ba59ef4b630effc1dc5abc5a1ba9', '2022-06-14 00:54:43', 'ekrzina@foi.hr', '2022-06-13 17:31:50', 0, 0, 1, 'Y1TYBVu5bX', '2022-06-14 07:54:43')/Tip radnje: 2
+2022-06-14 00:55:07/Registriran je novi korisnik AnaKar./Upit: INSERT INTO Korisnik (korisnickoIme, imePrezime, lozinka, lozinkaSha256, datumRegistracije, email, uvjetiKoristenja, brojNeuspjesnihPrijava, statusKorisnika, uloga_idUloga, aktivacijskiKod, vrijemeIstekaKoda) VALUES ('AnaKar', 'Ana Karenjina', 'ana345' , 'a4f6d6d7ff40298a0157cc94c6a714d89db9ba59ef4b630effc1dc5abc5a1ba9', '2022-06-14 00:55:07', 'ekrzina@foi.hr', '2022-06-13 17:31:50', 0, 0, 1, 'I4zzQTVxMM', '2022-06-14 07:55:07')/Tip radnje: 2
+2022-06-14 01:02:44/Za korisnika ekrzina broj neuspješnih prijava se resetira./Upit: UPDATE Korisnik SET brojNeuspjesnihPrijava = 0 WHERE korisnickoIme = 'ekrzina'/Tip radnje: 1
+2022-06-14 01:02:44/Korisnik ekrzina prijavljuje se./Tip radnje: 1
+2022-06-14 01:03:51/Korisnik ekrzina se odjavljuje./Tip radnje: 1

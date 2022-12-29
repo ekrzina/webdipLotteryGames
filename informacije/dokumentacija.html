@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Dokumentacija</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Elena Kržina">
+        <meta name="description" content="Stranica o autoru, kreirana 08.06.2022.">
+
+        <link href="../css/ekrzina.css" rel="stylesheet" type="text/css">
+
+    </head>
+
+    <body id="vrh">
+        <header>
+
+            <a href="../index.php">
+                <img class="logo" src="../materijali/home.png" alt="logo" height= "65" width="140"/>
+            </a>
+
+            <a href="#navnav">
+                <img class= "navigacijaIkona" src="../materijali/arrow.png" height="60" width="60" alt="NAV"/>
+            </a>
+
+            <h1 class="titl"> <a class="naslovLink" href="#vrh">Igre na sreću</a> </h1>
+        </header>
+        <br><br>
+
+        <nav id="navnav">
+            <ul class="izbornikLista">
+                <li><a href="../index.php">Početna stranica</a></li>
+
+                <li><a href="../obrasci/registracija.php">Registracija</a></li>
+                <li><a href="../galerija.php">Galerija</a></li>
+
+            </ul>
+        </nav>
+
+        <!-- opis projektnog zadatka, 
+        opis projektnog rješenja, dijagram slučajeva korištenja s ulogama (navigacijski dijagram), shema baze podataka 
+        (ERA model), popis i opis skripata i datoteka od kojih se sastoji projekt, mapa mjesta, popis i opis korištenih 
+        tehnologija i alata, popis i opis korištenih vanjskih izvora (moduli/biblioteke) i njihovo korištenje u skriptama, opis 
+        završenosti projekta, popis uočenih problema u radu i sl. -->
+        <section>
+            <h2>Dokumentacija</h2>
+                <h3 style='color:black'>1. Opis projekta</h3>
+            <h4>1.1. Kratak opis projektnog zadatka</h4>
+                <p style='margin-left: 4%; margin-right: 4%'>Projektni zadatak vezan je uz igre na sreću i lutrije te četiri različite uloge pristupaju i koriste stranice na različite načine. Zadatak je napraviti  
+                    jednostavnu web aplikaciju koja se bavi CRUD operacijama lutrija, igra na sreću, listića igra i vezanim područjima uz prijavu i registraciju korisnika kako bi se odredile njihove uloge.
+                </p>
+                <h4>1.2. Opis projektnog rješenja</h4>
+                    <p style='margin-left: 4%; margin-right: 4%'>Projektno rješenje realizirano je ponajviše uz pomoć HTML-a, JavaScripta i PHP-a i sadrži vanjske biblioteke za njezin rad. Realizirano je u dobrim dijelu 
+                        te je aplikacija spremna za korištenje od strane četiriju vrsta uloga korisnika, premda nema implementirane sve funkcionalnosti. Svaka uloga više razine može raditi sve što mogu i uloge niže razine.
+                    <p style='margin-left: 4%; margin-right: 4%'>Neregistrirani korisnik prilikom prve posjete stranici treba prihvatiti uvjete korištenja kako bi mogao nastaviti rad u aplikaciji. 
+                        Na početnoj stranici može se kretati do stranice registracije i prijave te može vidjeti galeriju listića otvorenih igara na sreću. 
+                        Na početnoj stranici vidi gumb zaigraj, kojem može pristupiti samo ukoliko se registrira, te vidi rang listu korisnika prema isplaćenim 
+                        dobicima igre.
+                        Registrirani korisnik može igrati igru sreće koju bira iz liste igara lutrije kojoj želi pristupiti i postavlja listu svog listića na 
+                        servis. Svoje listiće pregledava i ažurira unutar kategorije "Moji listići". Ukoliko je listić pri završetku kola dobitan, može listić isplatiti. Registrirani se korisnik isprva mora prijaviti kako bi pristupio ovim funkcionalnostima, 
+                        a može se i odjaviti.
+                        Moderator može obavljati CRUD operacije nad igrama na sreću kojima je pridružen kao njihov moderator te može isplatiti zahtjeve za isplatu korisnika unutar određenog roka. Kreira kola i otvara i zatvara kola igri.
+                        Administrator sustava ima CRUD operacije nad lutrijama i igrama na sreću uz dodatne funkcionalnosti unosa fonda dobitka po pogođenom broju i 
+                        unosi koliko brojeva se izvlači. Vidi popis registriranih korisnika i može ih blokirati i odblokirati, konfigurira određene parametre i pregledava dnevnik.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Implementirana je kompletna baza podataka kojom se pristupa poacima i kojom se bilježe podaci korisnika.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Za realizaciju projektnog zadatka uloženo je otprilike 100 sati rada.</p>
+                    <h4>1.3. Dijagram slučajeva korištenja s ulogama</h4>
+                    <img style="width:90%; margin-left: auto; margin-right: auto; display: block" src="../materijali/navigacijski.png" alt="navigacijski dijagram"/>
+                    <h4>1.4. Shema baze podataka</h4>
+                    <img style="width:70%; margin-left: auto; margin-right: auto; display: block" src="../materijali/era_ekrzina.png" alt="era dijagram"/>
+                    <h3 style='color:black'>2. Projektna okolina</h3>
+                    <h4>2.1. Mapa mjesta</h4>
+                    <p style='margin-left: 4%; margin-right: 4%'>Projekt sadrži sljedeću strukturu mapi mjesta:</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa javascript sadrži sve JavaScript (JS, jQuery) skripte koje se koriste unutar programa.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa css sadrži CSS datoteku kojoj stranice pristupaju za stilsko oblikovanje.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa configs sadrži konfiguracijske parametre.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa informacije sadrži HTML datoteke dokumenatcija.html i o_autoru.html. Te datoteke daju informaciju o autoru projekta i o opisu projekta.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa json sadrži .php datoteke koje generiraju JSON format podataka korišten od AJAX-a.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa listici sadrži sve slike listića koje korisnici unose.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa materijali sadrži sve slike odvojeno od listića korisnika koje se koriste od web stranica projekta.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa izvorne_datoteke sadrži izvorne datoteke projekta. To su datoteke kao slika baze, drawio datoteka navigacijskog dijagrama, dnevnik.log za lokalno zapisivanje podataka u dnevnik i datoteka za spremanje virtualnog vremena sa servisa.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa obrasci sadrži .php datoteke koje se pretežito koriste za unos podataka (forme) i stranice za prijavljivanje/odjavljivanje.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa privatno trebala bi sadržati popis svih korisnika sustava i biti zažtićena outem .htaccess. Nije implementirano.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa templates sadrži sve .tpl datoteke projekta za odvajanje koda od prezentacije sadržaja.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa templates_c kompajlirane su .tpl datoteke.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa vanjske_biblioteke sadrži Smarty.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa xml popis je .php datoteka koje dohvaćaju podatke i pretvaraju ih u xml oblik korišten od AJAX-a za prikaz podataka stranice.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Lorisnik_dodatno pomoćna je mapa u kojoj su spremljene .php datoteke koje nude neke dodatne funkcionalnosti korisniku, kao što su primjerice pregled vlastitih listića ili ažuriranje listića.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Mapa moderator_dodatno je pomoćna mapa za moderatora koja služi istu funkciju kao kod korisnik_dodatno.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Admin_dodatno mapa je koja sadrži sve posebne funkcionalnosti administratora sustava. Smještene su u jednu mapu radi lakšeg snalaženja i pronalaska tih funkcionalnosti.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Datoteke koje nisu u određenoj podmapi korištene su pri ulazu u aplikaciju (index.php) ili na više mjesta u projektu. U korijenskom direktoriju smještene su i klase.</p>
+                    
+                    <h3 style='color:black'>3. Tehnologije i alati</h3>
+                    <h4>3.1. Popis i opis korištenih tehnologija i alata</h4>
+                    <p style='margin-left: 4%; margin-right: 4%'>Za projekt korišten je HTML, prezentacijski jezik za izradu web stranica. Odvojen je u zasebnim .tpl datotekama radi korištenja Smartyja. Uz njega dolazi i CSS, Cascading Style Sheets, korišten za 
+                    dodavanje dizajna web stranicama. PHP i JavaScript bitne su odrednice projekta bez kojih projekt ne bi bio moguć. JavaScript skriptni je jezik, što znači da je interpreterski, varijable su mu slabo tipizirane i piše se u malim dijelovima koda, odnosno 
+                    skriptama. U projektu najviše je korišten uz jQuery, biblioteke JavaScripta. jezik je za programiranje na strani korisnika i bitan je za korisničko iskustvo. PHP jezik je za programiranje na strani poslužitelja i preko njega se dohvaćaju svi podaci 
+                    vezani uz sesije, servere, GET i POST akcije i kolačića. Njemu se pristupa bazi podataka. Za kreiranje baze podataka i opsluživanje stranica podacima koje su unijeli korisnici koristi se MySQL uz kombinaciju phpMyAdmina. Kod web stranica napisan je u integriranom razvojnom okruženju (IDE) NetBeans.</p>
+                    <h4>3.2. Popis i opis korištenih vanjskih izvora</h4>
+                    <p style='margin-left: 4%; margin-right: 4%'>Vanjski izvori korišteni u izradi web aplikacije su Smarty, sustav web predložaka napisan u PHP jeziku koji služi za odvajanje prezentacije stranice od koda iza stranice. Smješten je u datoteci vanjske_biblioteke i preuzet sa službene stranice <a href='https://www.smarty.net/'>Smartyja.</a>
+                    Za rad s AJAX-om i jQueryjem korišten je <a href='https://developers.google.com/speed/libraries'>Google Hosted Libraries.</a> Također je preuzet reCAPTCHA v3 sa službene stranice <a href="https://www.google.com/recaptcha/about/">Google reCAPTCHA</a> za potvrdu da korisnik koji se registrira nije robot.</p>
+                    <h3 style='color:black'>4. Problemi u radu i završenost</h3>
+                    <h4>4.1. Opis završenosti projekta</h4>
+                    <p style='margin-left: 4%; margin-right: 4%'>Projektna završenost procijenjena je oko 60%. Nije implementiran .htaccess ispis korisnika, prijava putem HTTPS-a, pretraživanje po stupcima tablice, prilagođavanje mediju, nije implementiran administratorov popis 
+                    kolačića i brisanje kolačića uvjeta korištenja, poboljšavanje korisničkog iskustva, ni jedna statistika, te konfiguracija sustava. Za reCAPTCHA nije korišten znakovni niz, već samo gumb kojim korisnik pri registraciji potvrđuje da nije automat. Brisanje sesije nakon određenog vremena nije implementirano.</p>
+                    <p style='margin-left: 4%; margin-right: 4%'>Implementirana je AJAX provjera korisničkog imena, validacije na strani klijenta i poslužitelja, e-mail aktivacija i zaboravljena lozinka, zaključavanje korisničkog računa prilikom 3 pogrešnih unosa lozinke, pamćenje prijavljenog korisnika u kolačiću, odjava sa sustava na klik, straničenje podataka, sortiranje tablica, korišten je XML i JSON, dnevnik te pomak vremena,
+                     , cijela funkcionalnost neregistriranog korisnika, sve osim vlastite statistike kog registriranog korisnika, sve osim aplikativne statistike kod moderatora, te otključavanje i blokiranje korisničkog računa, pregled i pretraživanje dnevnika i kreiranje lutrija i dodavanje moderatora te kreiranje i definiranje igara. Korišten je Smarty i napravljena je dokumentacija uz jednostavan dizajn.</p>
+                    <h4>4.2. Popis uočenih problema u radu</h4>
+                    <p style='margin-left: 4%; margin-right: 4%'>Od implementiranih dijelova, uočen je problem kod unosa u dnevnik prilikom brisanja korisnika iz sustava ukoliko se nije aktivirao u zadanom roku. Riječ je o vanjskim ključu koji je u dnevniku vezan na korisnika za koji je radnja vezana, te ako se korisnik izbriše iz sustava, ta promjena neće se moći zabilježiti u dnevnik u bazi (može se zabilježiti u dnevnik.log). Isto tako, prilikom unosa pogrešne lozinke, 
+                    dnevnik bilježi potrebne događaje, no u nespretnom obliku. Kao što je spomenuto, reCAPTCHA samo je gumb za provjeru automata umjesto znakovnog niza. Datum početka i završetka igre shvaćeni su kao dulje vrijeme unutar kojeg se igra izvodi, kao što je primjerice od 01.06.2022. do 01.08.2022. te nije sigurno je li to pravi smisao tih podataka. Sesija se ne briše u željenom roku već samo sistemski kako je određeno preglednicima i ručnom odjavom. Korištenjem klase sesija.class.php ispisuju se različite bilješke i upozorenja tijekom korištenja te klase i nije se pronašao način za njihovo izbjegavanje. Baza.class.php radi isto na jednom mjestu. Neki od primjera su naizgled mijenjanje imena sesije ili neautoriziranost pristupanja nekim podacima koji se zapravo ne traže (rijeđe).
+                    Moguća greška brisanja korisnika prilikom zakašnjele aktivacije (postoji mogućnost da se korisnik svakako aktivira). Prilikom posjeti stranice, potrebno je dodati index.php na putanju barka.foi.hr/WebDiP/2021_projekti/WebDiPx057/ kako bi se pravilno učitao Smarty.</p>
+                    
+                    </section>
+                    <br><br>
+                    <footer>
+                        <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fbarka.foi.hr%2FWebDiP%2F2021%2Fzadaca_04%2Fekrzina%2Findex.php"><img src="../materijali/HTML5.png" width="50" height="50" alt="html5 ikona"/></a>
+                        <address style="font-weight: bold;">Kontakt: 
+                            <a href="mailto:ekrzina@foi.unizg.hr">Elena Kržina</a></address>
+
+
+                        <p>&copy; 2022 E.Kržina</p>
+                        <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbarka.foi.hr%2FWebDiP%2F2021%2Fzadaca_04%2Fekrzina%2Findex.php&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en"><img src="../materijali/CSS3.png" width="60" height="60" alt="css3 ikona"/></a>    
+                    </footer>
+                    </body>
+
+                    </html>
